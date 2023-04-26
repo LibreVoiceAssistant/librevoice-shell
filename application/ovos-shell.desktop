@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=ovos-shell
+Icon=mycroft
+Type=Application
+StartupNotify=true
+
+Name=Ovos Shell
